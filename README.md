@@ -31,3 +31,5 @@ Connect the components as follows:
 
 
 
+## 📐 Circuit Schematic
+[Download Circuit Schematic (PDF)](circuit_schematic.pdf)
