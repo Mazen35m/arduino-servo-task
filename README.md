@@ -27,3 +27,10 @@ Connect the components as follows:
 | **Servo 4 Signal** | Pin 13 | PWM control for Motor 4 |
 | **VCC (All Servos)** | 5V | Power supply rail |
 | **GND (All Servos)** | GND | Common ground connection |
+
+
+
+
+
+## 📐 Circuit Schematic
+![Circuit Diagram](circuit_schematic.png)
