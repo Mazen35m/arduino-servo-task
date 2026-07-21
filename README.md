@@ -31,5 +31,3 @@ Connect the components as follows:
 
 
 
-## 📐 Circuit Schematic
-<img src="circuit_schematic.png" width="800" alt="Circuit Diagram">
